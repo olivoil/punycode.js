@@ -7,6 +7,7 @@
 	"scripts": [
 		"punycode.js"
 	],
+        "main": "punycode.js",
 	"keywords": [
 		"punycode",
 		"unicode",
